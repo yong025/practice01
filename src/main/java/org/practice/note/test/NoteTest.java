@@ -1,8 +1,9 @@
 package org.practice.note.test;
 
 import com.google.gson.Gson;
-import org.zerock.note.Command2;
-import org.zerock.note.NoteDTO1;
+import org.practice.note.Command2;
+import org.practice.note.NoteDTO1;
+
 
 public class NoteTest {
 

@@ -1,4 +1,4 @@
-package org.practice.web2.dto;
+package org.webpractice.web2.dto;
 
 import lombok.*;
 

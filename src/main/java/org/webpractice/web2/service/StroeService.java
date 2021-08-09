@@ -1,4 +1,4 @@
-package org.practice.web2.service;
+package org.webpractice.web2.service;
 
 import com.example.dto.StoreDTO;
 

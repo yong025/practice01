@@ -1,4 +1,4 @@
-package org.practice.web1;
+package org.webpractice.web1;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
